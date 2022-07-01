@@ -473,9 +473,8 @@ h3 {
 
 .bandeau_orange {
 
-    width: 80%;
+    width: 90%;
     height: 70%;
-    padding: 4rem;
     margin: auto;
     display: flex;
     flex-direction: row;
