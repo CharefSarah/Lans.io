@@ -301,7 +301,7 @@ h3 {
 }
 
 .progress_cards {
-    height: 1%;
+    height: 1.5%;
     width: 90%;
     background-color: var(--clr-accent);
     margin: auto;
